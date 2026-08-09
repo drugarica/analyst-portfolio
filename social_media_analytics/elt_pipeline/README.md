@@ -18,12 +18,12 @@
 - Age
 
 Рассчитываемые показатели: 
-views
-likes
-messages_sent
-messages_received
-users_sent
-users_received
+views,
+likes,
+messages_sent,
+messages_received,
+users_sent,
+users_received.
 
 
 <br><br><br>
