@@ -17,8 +17,3 @@
 
 
 ![Скриншот репорта из телеграм-бота](telegram_report.png)<br>
-
-<br><br><br>
-
-Авторство задания принадлежит Karpov.Courses  
-Курс Симулятор аналитика: https://karpov.courses/simulator 
