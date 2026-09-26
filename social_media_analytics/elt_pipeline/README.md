@@ -24,9 +24,3 @@ messages_sent,
 messages_received,
 users_sent,
 users_received.
-
-
-<br><br><br>
-
-Авторство задания принадлежит Karpov.Courses  
-Курс Симулятор аналитика: https://karpov.courses/simulator 
